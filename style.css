@@ -100,4 +100,9 @@ hr {
 
 .creator p span {
   color: hsl(0, 0%, 100%);
+  cursor: pointer;
+}
+
+.creator p span:hover {
+  color: hsl(178, 100%, 50%);
 }

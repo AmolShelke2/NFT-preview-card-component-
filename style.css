@@ -47,6 +47,10 @@ body {
   font-size: 20px;
 }
 
+.caption h1:hover {
+  color: hsl(178, 100%, 50%);
+}
+
 .text {
   align-items: center;
   margin: 20px 0;
